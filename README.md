@@ -7,9 +7,9 @@ This is a submission to the Shelter Animal Outcomes Kaggle competition: https://
 
 The techniques that I used: 
 
-a. Dealing with class imbalance
-b. Binning of feature labels 
-c. Feature Selection
-d. Converting to dummy variables
+a. Dealing with class imbalance <br>
+b. Binning of feature labels <br>
+c. Feature Selection<br>
+d. Converting to dummy variables <br>
 
 With this version you get a mean squared error of .85483
