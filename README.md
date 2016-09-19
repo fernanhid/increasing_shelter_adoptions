@@ -6,6 +6,7 @@ This is a submission to the Shelter Animal Outcomes Kaggle competition: https://
 3. Submitting the Answer
 
 The techniques that I used: 
+
 a. Dealing with class imbalance
 b. Binning of feature labels 
 c. Feature Selection
