@@ -1,5 +1,5 @@
 # increasing_shelter_adoptions
-This is a submission to the Shelter Animal Outcomes Kaggle competition: https://www.kaggle.com/c/shelter-animal-outcomes. I walk through the three parts: 
+This is a submission to the Shelter Animal Outcomes Kaggle <a href="https://www.kaggle.com/c/shelter-animal-outcomes">competition</a>: . I walk through the three parts: 
 
 1. Cleaning/Scraping Data
 2. Modeling
