@@ -12,4 +12,4 @@ b. Binning of feature labels <br>
 c. Feature Selection<br>
 d. Converting to dummy variables <br>
 
-With this version you get a mean squared error of .85483
+With this model I got a mean squared error of .85483
